@@ -53,7 +53,7 @@ The dataset was obtained from the CRM application pipeline of RB123. The figure 
 
 **Proportion of project type**
 
-![Proportion project type](https://github.com/harishmuh/RancangBangun123_2023-VS-2024/blob/main/images/proportion%20of%20project%20based%20on%20house%20type.PNG?raw=true)
+![Proportion project type](https://github.com/harishmuh/RancangBangun123_2023-VS-2024/blob/main/images/proportion%20of%20house%20type.PNG?raw=true)
 
 **Median project value by operational area**
 
@@ -84,4 +84,43 @@ The dataset was obtained from the CRM application pipeline of RB123. The figure 
 **Funnel analysis**
 
 ![Funnel analysis](https://github.com/harishmuh/RancangBangun123_2023-VS-2024/blob/main/images/funnel%20analysis.PNG?raw=true)
+
+## **Insights**
+
+RB123 showed strong growth in its business over the past two years (between 2023 and 2025). This was clear from a big jump in the total value of projects won, which more than doubled from Rp 10.25 billion in 2023 to Rp 26.39 billion in 2024. Also, the average value of each project won (median) increased from Rp 500 million to Rp 600 million.
+
+This success came from a few key areas:
+
+* Smart Focus on Locations: Bandung became a much more valuable area for projects, with its average project value growing from Rp 500 million in 2023 to Rp 678 million in 2024. While East Jakarta's project values dropped a bit, West Jakarta also saw a good increase, showing the company found better opportunities in Bandung and West Jakarta.
+
+* Main Business Plus a High-Value Niche: Regular residential houses were the main source of income, making up most of the projects won (50 residential vs. 5 boarding). However, boarding house projects became a special, high-value area in 2024. Even though there were fewer of them, their average value was Rp 1 billion, twice that of residential houses, showing they can bring in a lot of money per project.
+
+* Utilize seasonal and cultural events for Sales: The company successfully closed many projects during specific times, like the end of 2023 and around the Eid holiday in 2024. This suggests they either planned their efforts well around these times or took advantage of more demand. There was also a successful campaign in October 2024 that helped bring in new leads and closed deals.
+
+* Networking/recommendation for marketing: Even though social media brought in the most leads, personal referrals (Networking/Recommendation) were the most effective way to get paying customers, with the highest conversion rate (14.00%). People who found the company by online browsing also converted well (5.36%).
+  
+* Social Media Strengths: YouTube brought in the most leads overall. Interestingly, Instagram proved to be better at turning leads into customers, with a conversion rate that was twice as high as YouTube's, even if it brought in fewer leads.
+
+* Funnel analysis: Overall, Better Sales Process. The company got much better at turning initial interest into actual customers. The biggest improvement was in getting more "qualified leads" from the initial leads (jumping from 5% to 19%). This better filtering process, along with simply getting more visitors, led to more projects being won (from 19 to 36), even if the overall percentage of visitors who became customers stayed around 3%.
+
+In short, RB123 grew a lot by getting better at picking and handling high-value projects in the right places, making the most of referrals, using social media smartly, and greatly improving how it turns potential customers into real ones.
+
+## **Recommendation**
+
+Based on RB123's strong performance, key insights, and identified areas for improvement, here are some recommendations:
+
+* Actively seek and develop more boarding house projects: While residential houses are stable, the double median value of boarding houses presents a huge opportunity. Develop more plans to create a specialized marketing strategy for this niche. 
+
+* Strengthen Networking/Recommendation Channels: Since this channel has the highest conversion rate (14.00%), invest in formalized referral programs, partnerships, and strategies to encourage more word-of-mouth leads.
+
+* Enhance Instagram Focus for Quality Leads: Instagram showed a conversion rate twice that of YouTube. Increase investment in Instagram marketing, focusing on high-quality lead generation and nurturing strategies, rather than just volume.
+
+* Re-evaluate YouTube & Social Media Nurturing: While YouTube brings high lead volume, its lower conversion rate (when compared to Instagram's conversion efficiency) suggests these leads may need more nurturing. Develop tailored content to target a specific area of the market (e.g., boarding house)
+
+* Refine Sales Process & Pipeline Management:
+  * Address “Not answering’ ⟶ Don't treat all "not answering" leads equally, categorize, and segment them
+  * Leverage Funnel Improvements: Continue to refine and learn from the improved lead qualification process. 
+  * Strategic Campaign Planning: Continue to plan and execute targeted campaigns around historically successful periods like year-end and holiday seasons (Islamic Eid day). Analyze the success of the October 2024 campaign to replicate its elements.
+  * Address Lead Volatility & Drop: Investigate the sharp decline in total leads created in February 2025.
+
 
