@@ -31,31 +31,31 @@ The dataset was obtained from the CRM application pipeline of RB123. The figure 
 
 ## **Result of Analysis**
 
-**Successful leads overtime**
+
 
 ![succesful leads overtime](https://github.com/harishmuh/RancangBangun123_2023-VS-2024/blob/main/images/successful%20lead%20overtime.PNG?raw=true)
 
-**Total number of Closed-won (successful leads) project 2023 vs 2024**
+
 
 ![Successful leads](https://github.com/harishmuh/RancangBangun123_2023-VS-2024/blob/main/images/successful%20lead%202023%20vs%202024.PNG?raw=true)
 
-**Median project value 2023 vs 2024**
+
 
 ![Median value per project](https://github.com/harishmuh/RancangBangun123_2023-VS-2024/blob/main/images/median%20project%20value%202023%20vs%202024.PNG?raw=true)
 
-**Total project value 2023 vs 2024**
+
 
 ![Total project value](https://github.com/harishmuh/RancangBangun123_2023-VS-2024/blob/main/images/Total%20project%20value%202023%20vs%202024.PNG?raw=true)
 
-**Median project value by house type**
+
 
 ![Median project value](https://github.com/harishmuh/RancangBangun123_2023-VS-2024/blob/main/images/median%20project%20value%20by%20house%20type.PNG?raw=true)
 
-**Proportion of project type**
+
 
 ![Proportion project type](https://github.com/harishmuh/RancangBangun123_2023-VS-2024/blob/main/images/proportion%20of%20house%20type.PNG?raw=true)
 
-**Median project value by operational area**
+
 
 ![Project value by area](https://github.com/harishmuh/RancangBangun123_2023-VS-2024/blob/main/images/median%20project%20value%20by%20operational%20area.PNG?raw=true)
 
@@ -63,25 +63,25 @@ The dataset was obtained from the CRM application pipeline of RB123. The figure 
 
 ![Total leads overtime](https://github.com/harishmuh/RancangBangun123_2023-VS-2024/blob/main/images/total%20leads%20overtime.PNG?raw=true)
 
-**Leads by marketing channel**
+
 
 ![Leads by social media](https://github.com/harishmuh/RancangBangun123_2023-VS-2024/blob/main/images/Leads%20by%20marketing%20channel.PNG?raw=true)
 
-**Conversion rate by marketing channel**
+
 
 ![Leads by marketing channel](https://github.com/harishmuh/RancangBangun123_2023-VS-2024/blob/main/images/conversion%20rate%20by%20marketing%20channel.PNG?raw=true)
 
 
-**Leads by social media channel**
+
 
 ![Leads by social media](https://github.com/harishmuh/RancangBangun123_2023-VS-2024/blob/main/images/Leads%20by%20social%20media%202023%20vs%202024.PNG?raw=true)
 
 
-**Conversion rate by social media channel**
+
 
 ![Conversion rate by social media](https://github.com/harishmuh/RancangBangun123_2023-VS-2024/blob/main/images/Conversion%20rate%20by%20social%20media.PNG?raw=true)
 
-**Funnel analysis**
+
 
 ![Funnel analysis](https://github.com/harishmuh/RancangBangun123_2023-VS-2024/blob/main/images/funnel%20analysis.PNG?raw=true)
 
