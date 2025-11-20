@@ -122,5 +122,8 @@ Based on RB123's strong performance, key insights, and identified areas for impr
   * Leverage Funnel Improvements: Continue to refine and learn from the improved lead qualification process. 
   * Strategic Campaign Planning: Continue to plan and execute targeted campaigns around historically successful periods like year-end and holiday seasons (Islamic Eid day). Analyze the success of the October 2024 campaign to replicate its elements.
   * Address Lead Volatility & Drop: Investigate the sharp decline in total leads created in February 2025.
+ 
+## **Assets**
+* [Business performance slide](https://github.com/harishmuh/RancangBangun123_2023-VS-2024/blob/main/assets/Bahasa%20-%20RB123%20-%202023%20vs%202024.pdf)
 
 
