@@ -124,6 +124,6 @@ Based on RB123's strong performance, key insights, and identified areas for impr
   * Address Lead Volatility & Drop: Investigate the sharp decline in total leads created in February 2025.
  
 ## **Assets**
-* [Business performance slide](https://github.com/harishmuh/RancangBangun123_2023-VS-2024/blob/main/assets/Bahasa%20-%20RB123%20-%202023%20vs%202024.pdf)
+* [Business performance slide](https://github.com/harishmuh/RancangBangun123_2023-VS-2024/blob/main/assets/Bahasa%20-%20RB123%20-%202023%20vs%202024.pdf) - Bahasa
 
 
